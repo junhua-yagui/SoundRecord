@@ -23,16 +23,16 @@
 
         <ImageView
             android:id="@+id/transparentone"
-            android:layout_width="185dp"
-            android:layout_height="185dp"
+            android:layout_width="195dp"
+            android:layout_height="195dp"
             android:layout_centerInParent="true"
             android:layout_gravity="center"
             android:background="@drawable/transparentone" />
 
         <ImageView
             android:id="@+id/transparenttwo"
-            android:layout_width="204dp"
-            android:layout_height="204dp"
+            android:layout_width="212dp"
+            android:layout_height="212dp"
             android:layout_centerInParent="true"
             android:layout_gravity="center"
             android:background="@drawable/transparenttwo"/>
